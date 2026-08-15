@@ -1,0 +1,15 @@
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\net10.0\SistemaVeterinaria.exe
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\net10.0\SistemaVeterinaria.deps.json
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\net10.0\SistemaVeterinaria.runtimeconfig.json
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\net10.0\SistemaVeterinaria.dll
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\net10.0\SistemaVeterinaria.pdb
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.AssemblyInfo.cs
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.sourcelink.json
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.dll
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\refint\SistemaVeterinaria.dll
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.pdb
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\SistemaVeterinaria.genruntimeconfig.cache
+C:\Users\pablo\RiderProjects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\net10.0\ref\SistemaVeterinaria.dll
